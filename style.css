@@ -6,3 +6,6 @@ li {
   color: #fff;
   border-radius: 50px;
 }
+ul {
+  border: 1px solid #000;
+}
